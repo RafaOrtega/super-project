@@ -1,4 +1,8 @@
+#Ignorando el png
 *.png
 
-
+#ignorando el jpg
 *.jpg
+
+#ignorando el pdf
+archivo.pdf
